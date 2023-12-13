@@ -1,7 +1,7 @@
 - 👋 Hi there!
 - 👀 I’m interested in computational linguistics/natural language processing
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: send me a message on LinkedIn https://www.linkedin.com/in/mcserodio/
+- 📫 How to reach me: send me a message!
 
 <!---
 mcserodio/mcserodio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
