@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcserodio
+- 👋 Hi there!
 - 👀 I’m interested in computational linguistics/natural language processing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: send me a message on LinkedIn https://www.linkedin.com/in/mcserodio/
