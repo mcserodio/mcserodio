@@ -1,7 +1,7 @@
 - 👋 Hi there!
-- 👀 Feel free to look at my projects!
+- 👀 Welcome to my page. Feel free to take a look at my projects!
 - 🌱 I'm always looking to learn new skills
-- 📫 How to reach me: send me a message on LinkedIn!
+- 📫 How to reach me: send me a message on LinkedIn
 
 <!---
 mcserodio/mcserodio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
