@@ -1,6 +1,6 @@
 - 👋 Hi there!
-- 👀 I’m interested in computational linguistics/natural language processing and project management
-- 🌱 Always looking to learn new skills
+- 👀 Feel free to look at my projects!
+- 🌱 I'm always looking to learn new skills
 - 📫 How to reach me: send me a message on LinkedIn!
 
 <!---
